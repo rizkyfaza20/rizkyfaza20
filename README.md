@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Rizky Faza</h1>
-<h3 align="center">I'm a DevOps Engineer with interest to Container and Azure Cloud system</h3>
+<h3 align="center">I'm a DevOps Engineer with interest to Container and Cloud Infrastructure</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyfaza20&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyfaza20" /> </p>
 
