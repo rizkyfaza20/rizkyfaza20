@@ -5,7 +5,7 @@
 
 - I’m currently learning **Docker, Kubernetes, Terraform, Ansible and, Clouds**
 
-- All of my projects are available at [https://devops-mrfzy.space](https://devops-mrfzy.space)
+- All of my projects are available at [https://devops-mrfzy.cloud](https://devops-mrfzy.cloud)
 
 - I regularly write articles on [https://wedusawan.hashnode.com](https://wedusawan.hashnode.com)
 
