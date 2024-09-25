@@ -17,3 +17,4 @@ I make the playground use for DevOps / SRE experience at this project :
 
 - [https://github.com/rizkyfaza20/api-laravel-test-sre](https://github.com/rizkyfaza20/api-laravel-test-sre)
 - [https://hub.docker.com/repository/docker/mrfzy00/livecom-mail-server](https://hub.docker.com/repository/docker/mrfzy00/livecom-mail-server)
+- [https://github.com/rizkyfaza20/documenso-chart](https://github.com/rizkyfaza20/documenso-chart)
