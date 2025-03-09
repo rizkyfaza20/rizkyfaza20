@@ -9,8 +9,6 @@
 
 - I regularly write articles on [https://wedusawan.hashnode.com](https://wedusawan.hashnode.com)
 
-- How to reach me **rizkyfaza@tutanota.com**
-
 - Know about my experiences [https://devops-mrfzy.cloud](https://devops-mrfzy.cloud)
 
 I make the playground use for DevOps / SRE experience at this project : 
@@ -18,3 +16,4 @@ I make the playground use for DevOps / SRE experience at this project :
 - [https://github.com/rizkyfaza20/api-laravel-test-sre](https://github.com/rizkyfaza20/api-laravel-test-sre)
 - [https://hub.docker.com/repository/docker/mrfzy00/livecom-mail-server](https://hub.docker.com/repository/docker/mrfzy00/livecom-mail-server)
 - [https://github.com/rizkyfaza20/documenso-chart](https://github.com/rizkyfaza20/documenso-chart)
+- [https://artifacthub.io/packages/helm/documenso/documenso#views](https://artifacthub.io/packages/helm/documenso/documenso#views)
