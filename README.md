@@ -5,11 +5,11 @@
 
 - I’m currently learning **Docker, Kubernetes, Terraform, Ansible and, Clouds**
 
-- All of my projects are available at [https://devops-mrfzy.cloud](https://devops-mrfzy.cloud)
+- All of my projects are available at [https://shipwithmrfzy.cloud](https://shipwithmrfzy.cloud)
 
 - I regularly write articles on [https://wedusawan.hashnode.com](https://wedusawan.hashnode.com)
 
-- Know about my experiences [https://devops-mrfzy.cloud](https://devops-mrfzy.cloud)
+- Know about my experiences [https://shipwithmrfzy.cloud](https://shipwithmrfzy.cloud)
 
 I make the playground use for DevOps / SRE experience at this project : 
 
