@@ -3,15 +3,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rizkyfaza20&label=Profile%20views&color=0e75b6&style=flat" alt="rizkyfaza20" /> </p>
 
-- I’m currently learning **Docker, Kubernetes, Terraform, Ansible and, Clouds**
+- Currently work as a DevOps Engineer and SRE, focusing in Security process
 
-- All of my projects are available at [https://shipwithmrfzy.cloud](https://shipwithmrfzy.cloud)
+- All of my projects are available at [https://devopswithfaza.web.id](https://devopswithfaza.id)
 
 - I regularly write articles on [https://wedusawan.hashnode.com](https://wedusawan.hashnode.com)
 
-- Know about my experiences [https://shipwithmrfzy.cloud](https://shipwithmrfzy.cloud)
+- Know about my experiences [https://devopswithfaza.web.id](https://devopswithfaza.id)
 
-I make the playground use for DevOps / SRE experience at this project : 
+I make projects related for DevOps / SRE experience: 
 
 - [https://github.com/rizkyfaza20/api-laravel-test-sre](https://github.com/rizkyfaza20/api-laravel-test-sre)
 - [https://hub.docker.com/repository/docker/mrfzy00/livecom-mail-server](https://hub.docker.com/repository/docker/mrfzy00/livecom-mail-server)
