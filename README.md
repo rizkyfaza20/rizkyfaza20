@@ -5,11 +5,11 @@
 
 - Currently work as a DevOps Engineer and SRE, focusing in Security process
 
-- All of my projects are available at [https://devopswithfaza.web.id](https://devopswithfaza.id)
+- All of my projects are available at [https://devopswithfaza.web.id](https://devopswithfaza.web.id)
 
 - I regularly write articles on [https://wedusawan.hashnode.com](https://wedusawan.hashnode.com)
 
-- Know about my experiences [https://devopswithfaza.web.id](https://devopswithfaza.id)
+- Know about my experiences [https://devopswithfaza.web.id](https://devopswithfaza.web.id)
 
 I make projects related for DevOps / SRE experience: 
 
